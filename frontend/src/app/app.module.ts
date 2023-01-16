@@ -6,7 +6,7 @@ import { AppComponent } from './app.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MaterialModule } from './shared/material-module';
 import { HomeComponent } from './home/home.component';
-//import { BestSellerComponent } from './best-seller/best-seller.component';
+import { BestSellerComponent } from './best-seller/best-seller.component';
 
 
 
