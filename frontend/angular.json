@@ -31,7 +31,7 @@
                 "src/assets"
               ],
               "styles": [
-                "./node_modules/@angular/material/prebuilt-themes/purple-green.css",
+                "@angular/material/prebuilt-themes/indigo-pink.css",
                 "src/styles.scss",
                 "src/assets/styles/style.scss"
               ],
@@ -96,7 +96,7 @@
                 "src/assets"
               ],
               "styles": [
-                "./node_modules/@angular/material/prebuilt-themes/indigo-pink.css",
+                "@angular/material/prebuilt-themes/indigo-pink.css",
                 "src/styles.scss"
               ],
               "scripts": []
@@ -132,7 +132,7 @@
     },
     "defaultProject": "Frontend",
     "cli": {
-      "analytics": false
+      "analytics": "0ce22848-db18-49e7-81e9-26269ccbaac8"
     }
   }
   
