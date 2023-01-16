@@ -30,7 +30,7 @@ import { AppSidebarComponent } from './layouts/full/sidebar/sidebar.component';
     FormsModule,
     ReactiveFormsModule,
     MaterialModule,
-    FlexLayoutModule,
+    //FlexLayoutModule,
     SharedModule
   ],
   providers: [],
